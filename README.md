@@ -17,7 +17,7 @@ The core of this project is the implementation of five distinct search algorithm
 * Terminal-based step-by-step visualization of the algorithm's operation (node expansion).
 * Calculates and displays the total number of expanded nodes and the final path length.
 
-## 📂 Input Format
+## Input Format
 
 The program takes text files as input. The maze format uses specific characters to define the environment:
 
